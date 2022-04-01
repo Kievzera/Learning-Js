@@ -1,0 +1,11 @@
+
+Aprender e dominar:
+
+1- O que é log de programação 
+2- input e outputs 
+3- variáveis e constantes 
+4- condicionais 
+5- Array, Vetores 
+6- Loopings 
+7- Funções 
+8- Objetos   
