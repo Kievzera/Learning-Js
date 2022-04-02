@@ -3,14 +3,16 @@
 var numero = prompt("Digite um numero que deseja multiplicar");
 var multiplicador = prompt("Digite até quanto quer multiplicar.");
 
+calcularTabuada(numero, multiplicador);
+
+
+function calcularTabuada(numero, multiplicador){
 // 5x0 = 0
 // 5x1 = 5
 for (var i = 0; i <= multiplicador; i++){
-document.write(numero + " x " + i + " = " + (numero * i) + "<br>" );
-
-
+document.write(numero + " x " + i + " = " + (numero * i) + "<br>");
+   }
 }
-
 
 
 
